@@ -5,7 +5,11 @@ A terminal-based multi-user management system written entirely in Bash. Users ca
 The project is split into a `code/` folder containing all scripts, a `desktop/` folder where user home directories are created, and a `security/` folder holding credentials and session data. Both are created automatically on first run.
 
 ## Video Demo
+<div align="center">
+    
 [![Demo](https://img.youtube.com/vi/VSF4fgrFnHU/0.jpg)](https://www.youtube.com/watch?v=VSF4fgrFnHU)
+    
+</div>
 
 ```
 bash/
