@@ -8,6 +8,8 @@ The project is split into a `code/` folder containing all scripts, a `desktop/` 
 <div align="center">
     
 [![Demo](https://img.youtube.com/vi/VSF4fgrFnHU/0.jpg)](https://www.youtube.com/watch?v=VSF4fgrFnHU)
+
+>(some features are not shown in the demo video, such as writing to a document or sending an email after registration)
     
 </div>
 
